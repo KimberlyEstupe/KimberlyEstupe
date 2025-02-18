@@ -7,6 +7,5 @@ Aquí en mi perfil podrás ver algunos de los proyectos en los que he trabajado.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KimberlyEstupe&show_icons=true&hide_title=true)
 
-## Lenguajes más usados
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KimberlyEstupe)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimberlyEstupe)
