@@ -1,4 +1,4 @@
-# Hola, mi nombre es **Kimberly**
+# Hola, mi nombre es Kimber**ly**
 
 Soy una desarrolladora apasionada por la tecnología. Estudio en la Universidad de San Carlos de Guatemala.
 
