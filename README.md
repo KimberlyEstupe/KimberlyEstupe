@@ -23,7 +23,7 @@ Soy una desarrolladora apasionada por la tecnología. Estudio en la Universidad 
 
 <div align="left">
   
-  [![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,windows,github,gitlab,git,vscode=3)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,windows,github,gitlab,git,vscode&perline=3)](https://skillicons.dev)
 </div>
 
 ###
