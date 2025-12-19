@@ -4,7 +4,7 @@ Soy una desarrolladora apasionada por la tecnología. Estudio en la Universidad 
 
 
 ![Kimberly's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimberlyEstupe&theme=jolly&show_icons=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KimberlyEstupe&show_icons=true&theme=jolly)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimberlyEstupe&theme=jolly&show_icons=true&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
